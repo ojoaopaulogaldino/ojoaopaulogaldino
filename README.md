@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ojoaopaulogaldino
+- 👀 I’m interested in Web Design, Front-end development and Mobile Development
+- 🌱 I’m currently learning Mobile Development
+- 📫 How to reach me? Send me an email: joaopaulogaldino996@gmail.com
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I'm oil painter, like Leonardo DaVinci; and rocket maker, like Elon Musk.
