@@ -69,18 +69,6 @@ An integration-engineering workbench built with TypeScript. It reviews OpenAPI c
 
 <br />
 
-<div align="center">
-
-## Current deployment mode
-
-<img width="100%" src="https://raw.githubusercontent.com/ojoaopaulogaldino/integrationdoctor/main/docs/saiyan-deploy.svg" alt="Animated pixel art: two Saiyan-inspired fighters powering up a code deployment" />
-
-<sub>When the tests pass and the power level hits production.</sub>
-
-</div>
-
-<br />
-
 <details>
   <summary><b>A few problems I have worked on</b></summary>
   <br />
